@@ -1,0 +1,111 @@
+---
+layout: page
+title: ENVS Blog
+permalink: /about/
+---
+
+<!-- Slider Start -->
+<section id="slider">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-md-offset-2">
+        <div class="block">
+          <h1 class="animated fadeInUp">IoT For <br> Energy Efficient Buildings</h1>
+          <p class="animated fadeInUp">Curious how IoT devices are being used to cut energy related carbon emissions in physical structures? Explore my blog to learn how, and its application to enforce carbon emission policies.  </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Wrapper Start -->
+<section id="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 col-sm-12">
+        <div class="block">
+          <div class="section-title">
+            <h2>What does IoT bring to the table?</h2>
+            <p> IoT (Internet of Things) devices are sensors that can share data through the internet. IoT is currently used to collect data for a variety 
+              of things changing within the environment including deforestation, and carbon concentation in the atmosphere. Currently, one of the most prevelent uses of
+              IoT devices is to track energy consumption. These sensors, provide data analytics that can then be used to make informed decidions to improve energy 
+              efficiency within buildings. These devices can and have been helping businesses reach their sustainability goals. 
+            
+              
+
+            </p>
+          </div>
+          <p>
+            I'm Momo Rutkin, and I'm here to educate people of the impacts of IoT devices in climate change related issues, specifically on energy related carbon emissions in buildings.  This is also a collection of tasks that I have completed for ENVS 326. 
+            I double majored in computer science and environmnetal science because I strongly believe in the potential of technology and big data for climate change action. 
+            The more data that we collect through technology, the more accurately we can pinpoint sources of emissions 
+            and anaylize the effects of the anthropogenic carbon footprint. Through this blog, I hope to walk you through the 
+            impacts IoT devices have been having in our carbon curbing efforts.
+          </p>
+        </div>
+      </div><!-- .col-md-7 close -->
+      <div class="col-md-5 col-sm-12">
+        <div class="block">
+          <img src="img/momo.jpeg" alt="Img">
+        </div>
+      </div><!-- .col-md-5 close -->
+    </div>
+  </div>
+</section>
+
+<section id="feature">
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-6">
+      
+    </div>
+  </div>
+</div>
+</section>
+
+
+<!-- Call to action Start -->
+<section id="call-to-action">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>Curious to learn more?</h2>
+          <p>Check out my blogs to learn about what IoT devices can do, and how its contributing to sustainability goals.</p>
+          <a class="btn btn-default btn-call-to-action" href="{{ site.baseurl }}/blog" >Blogs</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Content Start -->
+<section id="testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="section-title text-center">
+        <h2>Facts And Figures</h2>
+        <p>How much has IoT saved us in cost and efficiency so far?</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+        {% if site.data.funfacts.size > 0 %}
+        <div class="block">
+          {% for ff in site.data.funfacts %}
+          <ul class="counter-box clearfix">
+            <li>
+              <div class="block">
+                <i class="{{ ff.icon }}"></i>
+                <h4 class="counter">{{ ff.counter }}</h4>
+                <span>{{ ff.text }}</span>
+              </div>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+      </div>
+      
+      </div>
+    </div>
+  </div>
+</section>
