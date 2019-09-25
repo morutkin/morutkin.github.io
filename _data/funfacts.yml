@@ -1,9 +1,9 @@
-- percent: 39
+- counter: 10000000000000
   icon: ion-ios-chatboxes-outline
-  text: Cups of Coffee
-- counter: 1500
+  text: IoT devices globally in 2018, greater than the amount of cellphones
+- counter: 1200000000
   icon: ion-ios-glasses-outline
-  text: Gallons of Soft Drink
+  text: IoT devices are used for buildings in 2018
 - counter: 1200
   icon: ion-ios-compose-outline
   text: Whiteboard Markers
