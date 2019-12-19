@@ -23,7 +23,7 @@ The Aviation sector is a top-ten global emitter, accounting for 12% of all emiss
 [International Transport Forum](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ITF%25_20Logo%25_20colour%25_201057x292.jpg/600px-ITF%25_20Logo%25_20colour%25_201057x292.jpg)
 
 At the 1992 UNFCCC, international air travel was exempted from climate regulation, and Air travel is also taxed less as well. However, looking at the fact that 
-A round trip ticket from New York to Madrid costs about 3 square miles of Arctic ice, and with Air travel is predicted to double within 20 years, we need to enforce more policy regulations around carbon emissions to reduce pollution from this particular sector. [International Transport Forum, Aviation][ITF]
+A round trip ticket from New York to Madrid costs about 3 square miles of Arctic ice, and with Air travel is predicted to double within 20 years, we need to enforce more policy regulations around carbon emissions to reduce pollution from this particular sector. With this background, we aim to focus our project on the research and policy that can bring Aviation towards more sustainable practices. [International Transport Forum, Aviation][ITF] 
 
 [ITF]: https://www.itf-oecd.org/aviation
 [jj]: https://www.tandfonline.com/doi/full/10.1080/14693062.2018.1562871 
