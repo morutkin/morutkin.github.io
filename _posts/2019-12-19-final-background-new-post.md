@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aviation Policy - What is at stake? 
+title: Following the COP - Aviation Policy
 date: 2019-12-18 09:45
 category: 
 author: Momo Rutkin 
