@@ -18,7 +18,7 @@ This strategy is to define how the United Nations system will support the use of
 
 A lot of these new technologies can be used to aid in the  areas of privacy and human rights, equality, ethics, equity, responsibility, transparency, and accountability. The five principles for guidance that the UN plans to use when bringing the use of these technologies forward is: 1) Protect and promote global values of the global UN charter and human rights, 2) Foster inclusion and transparency to allow for the nations to make collective choices about new technologies. 3) Work in partnership to increase collective knowledge, test ideas, and expand dialogue 4) Build on existing capabilities and mandates 5) Be humble and continue to learn.  [UN New Technologies][uni]
 
-## Negotiations Within COP25 1
+## Negotiations Within COP25 
 
 During the 25th session of the Conference of the parties in Madrid, Spain, alothough thse plans for new technologies didn’t take front and center, there were many side events and talks about the use of AI, and blockchain for climate change mitigation and adaptation. For example, the world bank cities talked about the use of AI in making housing more resilient and to prepare infrastructure to be well prepared before the next disaster hits. Another example of interesting applications of AI talked about at the COP was a software from Simens that uses artificial intelligence to calculate the pollution for many days in advance and determines the effectiveness of possible counter-measures. They’re currently conductig tests in Nuremberg,Germany, and the results are looking good so far. [Simens AI][sim]
 
