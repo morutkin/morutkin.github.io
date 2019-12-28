@@ -22,6 +22,6 @@ This particular conference first looked at Jamaica's mountain ecosystems with Mr
 
  In order to support this project, this mountain community and many others started collecting data about the people who live there, and the geographical patterns of the land to learn more about these areas. One of the conclusions  of this project was that 1 in 2 rural mountain people face vulnerabilities to food insecurity. There has been a 12% increase in the food insecure people between 2012 and 2017. In 2017, more than 85 million rural mountain people lived in extremely remote areas with no access to basic town facilities. And between 2000 and 2018, approximately 40% of the worlds conflict occur in mountains. 
  
- ## Conclusion 
+## Conclusion 
 
  Knowing this data, one of the main takeaways that a lot of the speakers had for us was that we need a call for action within these areas, specifically we need to 1) make targeted investments in the youth 2) focus on sustainable production and diversification of food ecosystems 3) strengthen skills and value chains and 4) create mor mountain specific policies. 
